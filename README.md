@@ -29,6 +29,14 @@ O ecossistema da AMBC é composto por dois sistemas complementares:
 
 Site no ar: **[https://ambc-rs.com.br](https://ambc-rs.com.br/)**
 
+### Apresentações (Canvas)
+
+1º Apresentação:  https://www.canva.com/design/DAHE5cYFie0/iUOELw4w6IfY9Ac96wwXog/edit
+
+2º Apresentação V1.0: https://www.canva.com/design/DAHEnryd73M/7QVSu81PS_DHEL2W9zfgzQ/edit
+
+2º Apresentação Final: https://www.canva.com/design/DAHP4UFKB4E/RuFIXcVCdsM6CTl8tuhNLA/edit
+
 ---
 
 ## Stack
