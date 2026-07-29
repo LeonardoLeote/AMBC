@@ -7,7 +7,7 @@ O ecossistema da AMBC é composto por dois sistemas complementares:
 | Sistema | Descrição | Link |
 |---------|-----------|------|
 | 🌐 **Site institucional** | WordPress — comunicação pública, notícias e informações para moradores | [ambc-rs.com.br](https://ambc-rs.com.br/) |
-| ⚙️ **Sistema de gestão** | Este repositório — painel administrativo interno (associados, financeiro, etc.) | — |
+| ⚙️ **Sistema de gestão** | Este repositório — painel administrativo interno (associados, financeiro, etc.) | https://sistema.ambc-rs.com.br/login.html |
 
 ---
 
